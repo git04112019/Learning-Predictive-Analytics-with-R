@@ -3,9 +3,9 @@ Code Bundle for [Learning-Predictive-Analytics-with-R](https://www.packtpub.com/
 ##What you need for this book
 All you need for this book is a working installation of R > 3.0 (on any operating 
 system) and an active internet connection.
-## More products related to R:
-*Learning Data Mining with R(https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r)
+##Related R Language products:
+[Learning Data Mining with R](https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-r)
 
-*Mastering Predictive Analytics with R(https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
+[Mastering Predictive Analytics with R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
 
-*R for Data Science(https://www.packtpub.com/big-data-and-business-intelligence/r-data-science)
+[R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science)
